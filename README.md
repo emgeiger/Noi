@@ -7,9 +7,18 @@
 
 <a href="https://www.buymeacoffee.com/lencx" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 145px !important;" ></a>
 
+> [!NOTE]
+> When installing for the first time, the **Noi Extensions** might not be the latest version. You will need to manually update the extensions from [lencx/Noi/extensions](https://github.com/lencx/Noi/tree/main/extensions) to your computer.
+>
+> You can locate this option in the settings or open the local extensions directory via the menu: **Help -> Noi UserData -> Extensions**.
+>
+> ![](./website/static/readme/noi-extensions.png)
+
 ## 🔥 Feature
 
 Introducing Noi: an AI-enhanced, customizable browser designed to streamline your digital experience:
+
+**AI Support: [ChatGPT](https://chatgpt.com), [Claude](https://claude.ai), [Gemini](https://gemini.google.com), [Grok](https://grok.com), [DeepSeek](https://chat.deepseek.com), [GitHub Copilot](https://github.com/copilot), [HuggingChat](https://huggingface.co/chat), and more.**
 
 - **Browser**: Noi not only includes curated AI websites but also allows the addition of any URL, providing a tailored browsing experience ([Noi Configs](./configs)).
 - **Prompts Management**: Offers robust customization options including the addition, synchronization, batch tagging, and removal of prompts.
@@ -101,10 +110,9 @@ Learn more: [electronjs/doc](https://www.electronjs.org/docs/latest/api/extensio
 <!-- EXTENSIONS_START -->
 | Name | Version | Description |
 | --- | --- | --- |
-| [@noi/ask](https://github.com/lencx/Noi/tree/main/extensions/noi-ask) | 0.1.9 | The best assistant for batch asking and quick typing of prompts. |
+| [@noi/ask](https://github.com/lencx/Noi/tree/main/extensions/noi-ask) | 0.2.2 | The best assistant for batch asking and quick typing of prompts. |
 | [@noi/ask-custom](https://github.com/lencx/Noi/tree/main/extensions/noi-ask-custom) | 0.1.0 | The best assistant for batch asking and quick typing of prompts. |
-| [@noi/export-chatgpt](https://github.com/lencx/Noi/tree/main/extensions/noi-export-chatgpt) | 0.1.1 | ChatGPT chat history export, supports PDF, Image, and Markdown formats. |
-| [@noi/reset](https://github.com/lencx/Noi/tree/main/extensions/noi-reset) | 0.1.1 | Reset certain website styles to enhance compatibility with Noi. |
+| [@noi/reset](https://github.com/lencx/Noi/tree/main/extensions/noi-reset) | 0.1.3 | Reset certain website styles to enhance compatibility with Noi. |
 <!-- EXTENSIONS_END -->
 
 [![Star History Chart](https://api.star-history.com/svg?repos=lencx/Noi&type=Timeline)](https://star-history.com/#lencx/Noi&Timeline)

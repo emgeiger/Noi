@@ -1,6 +1,6 @@
 {
   "name": "Noi Mode",
-  "version": "0.1.6",
+  "version": "0.2.0",
   "sync": "https://github.com/lencx/noi/blob/main/configs/noi.mode.cn.json",
   "modes": [
     {
@@ -52,6 +52,36 @@
       "url": "https://gemini.google.com"
     },
     {
+      "id": "noi:qwen",
+      "parent": "noi@ai",
+      "text": "Qwen",
+      "url": "https://chat.qwen.ai"
+    },
+    {
+      "id": "noi:grok",
+      "parent": "noi@ai",
+      "text": "Grok",
+      "url": "https://grok.com"
+    },
+    {
+      "id": "noi:deepseek",
+      "parent": "noi@ai",
+      "text": "DeepSeek",
+      "url": "https://chat.deepseek.com"
+    },
+    {
+      "id": "noi:githubcopilot",
+      "parent": "noi@ai",
+      "text": "GitHub Copilot",
+      "url": "https://github.com/copilot"
+    },
+    {
+      "id": "noi:sora",
+      "parent": "noi@ai",
+      "text": "Sora",
+      "url": "https://sora.com"
+    },
+    {
       "id": "noi:poe",
       "parent": "noi@ai",
       "text": "Poe",
@@ -79,7 +109,7 @@
       "id": "noi:groq",
       "parent": "noi@ai",
       "text": "Groq",
-      "url": "https://groq.com"
+      "url": "https://chat.groq.com"
     },
     {
       "id": "noi:lechatmistral",
@@ -92,6 +122,12 @@
       "parent": "noi@ai",
       "text": "Pi",
       "url": "https://pi.ai/talk"
+    },
+    {
+      "id": "noi:notebooklm",
+      "parent": "noi@ai",
+      "text": "NotebookLM",
+      "url": "https://notebooklm.google.com"
     },
     {
       "id": "noi:coze",
@@ -128,6 +164,18 @@
       "parent": "noi@aiCN",
       "text": "豆包",
       "url": "https://www.doubao.com"
+    },
+    {
+      "id": "noi:yuanbao",
+      "parent": "noi@aiCN",
+      "text": "腾讯元宝",
+      "url": "https://yuanbao.tencent.com/chat"
+    },
+    {
+      "id": "noi:jimeng",
+      "parent": "noi@aiCN",
+      "text": "即梦 AI",
+      "url": "https://jimeng.jianying.com"
     },
     {
       "id": "noi:chatglm",
@@ -188,6 +236,12 @@
       "parent": "noi@dev",
       "text": "VS Code",
       "url": "https://vscode.dev"
+    },
+    {
+      "id": "noi:projectidx",
+      "parent": "noi@dev",
+      "text": "Project IDX",
+      "url": "https://idx.google.com"
     },
     {
       "id": "noi:qqmail",
