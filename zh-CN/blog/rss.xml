@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Noi Blog</title>
+        <link>https://noi.nofwl.com/zh-CN/blog</link>
+        <description>Noi Blog</description>
+        <lastBuildDate>Thu, 18 Sep 2025 15:00:47 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>zh-CN</language>
+        <item>
+            <title><![CDATA[你好, Noi]]></title>
+            <link>https://noi.nofwl.com/zh-CN/blog/noi</link>
+            <guid>https://noi.nofwl.com/zh-CN/blog/noi</guid>
+            <pubDate>Thu, 18 Sep 2025 15:00:47 GMT</pubDate>
+            <description><![CDATA[🚀 用 AI 点亮您的世界 - 探索、扩展、赋能。]]></description>
+            <content:encoded><![CDATA[<p>🚀 用 AI 点亮您的世界 - 探索、扩展、赋能。</p>
+<ul>
+<li><a href="https://mp.weixin.qq.com/s/dAN7LOw7mH609HdAyEvXfg" target="_blank" rel="noopener noreferrer">Noi：跨平台定制化浏览器，最得力 AI 助手</a></li>
+<li><a href="https://mp.weixin.qq.com/s/M6gO6MdK5obCvs2LIBZA3w" target="_blank" rel="noopener noreferrer">Noi：插件介绍</a></li>
+</ul>]]></content:encoded>
+        </item>
+    </channel>
+</rss>
